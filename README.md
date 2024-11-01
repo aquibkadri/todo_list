@@ -1,5 +1,5 @@
 
-# Project Title
+# Todo List Pagination
 
 This is paginated list displayed in the table view.
 
