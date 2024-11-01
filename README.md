@@ -20,6 +20,6 @@ Start the server
 
 ## Deployed
 
-The site is published here for demo.
+The site is published here for the demo.
 
 Live link: https://aquibkadri.github.io/demo_list-pagination/
