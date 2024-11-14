@@ -10,7 +10,7 @@ The limit value can be dynamically set.
 
 Start the server
 
-```bash
+```
   npm run dev
 ```
 
